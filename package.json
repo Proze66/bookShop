@@ -1,0 +1,14 @@
+{
+  "name": "bookshop",
+  "version": "1.0.0",
+  "description": "work shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "bookshop"
+  ],
+  "author": "proze",
+  "license": "ISC"
+}

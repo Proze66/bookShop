@@ -1,0 +1,22 @@
+{
+   "products": [
+        { "id": "book0001",
+          "name": "book1",
+          "description": "biographie book1",  
+          "USD_price": 20.00, 
+          "EUR_price": 16.82,
+          "file_link": "book1.pdf",
+          "creation_date": "23/11/2020",
+          "orders_counter": 0
+        },
+        { "id": "book0002",
+            "name": "book2",
+            "description": "aveture book2",  
+            "USD_price": 10.00, 
+            "EUR_price": 8.41,
+            "file_link": "book2.pdf",
+            "creation_date": "23/11/2018",
+            "orders_counter": 0
+          }        
+    ]
+}
