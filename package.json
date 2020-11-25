@@ -14,7 +14,9 @@
   "author": "proze",
   "license": "ISC",
   "dependencies": {
+    "ejs": "^3.1.5",
     "express": "^4.17.1",
+    "mongoose": "^5.10.15",
     "pub": "^0.2.0",
     "pug": "^3.0.0"
   }
